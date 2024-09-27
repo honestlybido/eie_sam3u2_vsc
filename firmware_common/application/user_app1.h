@@ -2,6 +2,8 @@
 @file user_app1.h                                                                
 @brief Header file for user_app1
 
+TESTING ADDING THIS LINE AND DELETING THE ONE BELOW 
+
 ----------------------------------------------------------------------------------------------------------------------
 To start a new task using this user_app1 as a template:
 1. Follow the instructions at the top of user_app1.c
